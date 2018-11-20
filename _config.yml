@@ -6,18 +6,18 @@ baseurl: "/liuence" # the prefix of your site uri, eg. `/bohu-jekyll-theme` or j
 description: 天道总司的个人博客网站,前端HTML、HTML5、CSS、CSS3、JavaScript、JQuery等编程经验总结分享。
 # Your information
 email: me@zhaoyuxiang.cn
-author: Liuence #yourname #天道总司
-place: yourhometown #杭州
-domain: yourdoamain #互联网
-company: yourcompany #Jeeyoo
-position: yourjob #Technical Support
-school: yourschool #浙江科技学院
-major: yourmajoy #测控技术与仪器
-resume: "http://zhaoyuxiang.cn/cv"
-profile: Time is money. #yourmotto #聪明在于勤奋，天才在于积累。
-twitter_username: zyx19936688
-weibo_username:  zhaoyuxiang
-github_username:  Clark-Zhao
+author: Liuence
+place: 浙江-杭州
+domain:互联网-电子商务
+company:杭州墨匠信息科技有限公司
+position: 产品经理
+school: 三峡大学
+major: 核工程与核技术
+resume: "http://lxyzai.com/cv"
+profile: 但行好事，莫问前程
+twitter_username: liuence
+weibo_username:  liuence
+github_username:  liuence
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
