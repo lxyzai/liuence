@@ -3,7 +3,7 @@ title: 刘恩斯博客
 url: "https://lxyzai.github.com/liuence"    # the protocol and hostname of your site, eg. `http://zhaoyuxiang.cn/blog`
 baseurl: "/liuence" # the prefix of your site uri, eg. `/bohu-jekyll-theme` or just one slash `/`
 #timezone: Asia/Shanghai
-description: 天道总司的个人博客网站,前端HTML、HTML5、CSS、CSS3、JavaScript、JQuery等编程经验总结分享。
+description: 刘恩斯的个人博客网站,产品、设计、阅读、职场、生活等经验总结分享。
 # Your information
 email: me@zhaoyuxiang.cn
 author: Liuence
@@ -21,7 +21,7 @@ github_username:  liuence
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-disqus_shortname: zhaoyuxiang   
+disqus_shortname: liuence   
 # get one: https://disqus.com/admin/signup/
 # duoshuo_shortname: clark-zhao  
 # get one: http://duoshuo.com/create-site/
